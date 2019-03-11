@@ -24,3 +24,4 @@ git branch --set-upstream-to=origin/<branch> <branch>  关联远程库<branch>�
 
 git merge 发生冲突后，用git status 查看冲突，用vi <file> 修改冲突
 
+test
